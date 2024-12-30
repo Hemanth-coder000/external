@@ -1,2 +1,9 @@
 1st progrsm
 2nd time
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+git 3rd 
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
